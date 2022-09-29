@@ -21,3 +21,8 @@ https://minhapaginainicial.com.br/blog/dicas-informatica/gerador-de-curriculo-co
 **Acesso a Plataformas de Estagio e Emprego**
 
 https://www.nube.com.br/
+
+
+**Acesso ao QUIZ**
+
+https://kahoot.it/

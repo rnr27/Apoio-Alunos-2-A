@@ -26,3 +26,6 @@ https://www.nube.com.br/
 **Acesso ao QUIZ**
 
 https://kahoot.it/
+
+**Log dos Alunos**
+https://docs.google.com/spreadsheets/d/1py_Egmp5JNKPQX2iPnBZgHpV7dpkrEW8eBOq_2EAXI4/

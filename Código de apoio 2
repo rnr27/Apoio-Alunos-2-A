@@ -32,7 +32,7 @@ ENQUANTO opt <> "4" faca
    escreval()
    senao
    cadastro_usuario()
-   fimse
+   fimse 
    fimse
  se opt="2" entao
    limpatela

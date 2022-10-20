@@ -31,3 +31,4 @@ fimenquanto
 escreval("  ")
 escreval("O valor total de pedidos é -> R$",totpedido)
 fimalgoritmo
+ 

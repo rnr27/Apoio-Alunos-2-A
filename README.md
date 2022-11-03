@@ -1,4 +1,4 @@
-# Apoio-Alunos-2-A
+# Apoio-Alunos-2-A- Módulo de Lógica
 **Links e arquivos de recursos para Alunos do 2º A - Técnico em Informatica** 
 
 
